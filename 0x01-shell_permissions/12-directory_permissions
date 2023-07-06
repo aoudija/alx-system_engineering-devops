@@ -1,0 +1,2 @@
+#!/bin/bash
+chdir my_dir && chmdo 751 my_dir
