@@ -1,2 +1,2 @@
 #!/bin/bash
-chdir my_dir && chmdo 751 my_dir
+chdir my_dir / chmod 751 my_dir
